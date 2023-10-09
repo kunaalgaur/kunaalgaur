@@ -18,4 +18,4 @@ I'm a passionate Full Stack Web Developer based in Dehradun, Uttarakhand, India.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaalgaur&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaalgaur&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaalgaur&layout=compact&theme=dark)](https://github.com/kunaalgaur)
